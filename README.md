@@ -3,7 +3,7 @@ Deep Learning notes.
 
 ## Background
 * [Setup - Software, Hardware](https://github.com/vijayDL/DL-playground/blob/master/background/Setup%20-%20Software%2C%20hardware.ipynb): Software and Hardware setup for DL.
-* [Introduction to Python, numpy, Pandas, matplotlib](https://github.com/vijayDL/DL-playground/blob/master/background/Python%20tutorials.ipynb): Crash cource on python, and other popular libraries for ML/DL.
+* [Introduction to Python](https://github.com/vijayDL/DL-playground/blob/master/background/Python%20tutorials.ipynb): A Crash cource on python.
 
 ## Intro
  * [Introduction to Neural networks](https://github.com/vijayDL/DL-playground/blob/master/intro/1.%20Intro%20to%20Neural%20Networks.ipynb):
