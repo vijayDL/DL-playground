@@ -7,6 +7,7 @@ Deep Learning notes.
 * [Introduction to Numpy](https://raw.githubusercontent.com/vijayDL/DL-playground/master/background/Numpy%20Tutorials.ipynb): A Crash course on Numpy.
 
 ## Intro
+ * [Understanding bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
  * [Introduction to Neural networks](https://github.com/vijayDL/DL-playground/blob/master/intro/1.%20Intro%20to%20Neural%20Networks.ipynb):
     How does NN classify non linear data?. Is it a stacked ensemble of linear classifiers?.
  * [Understanding gradient flows](https://github.com/vijayDL/DL-playground/blob/master/intro/2.%20Gradient%20Flow.ipynb):
